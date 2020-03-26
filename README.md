@@ -7,6 +7,7 @@ After installing the module, just import it and use it:
 import var_dump
 var_dump.var_dump('I am a string')
 ```
+or
 ```python
 from var_dump import var_dump
 var_dump('I am a string')
